@@ -1,9 +1,6 @@
  # Treasure-Hunt Project 🗺️
 Welcome to the Treasure Hunt Project! This game is designed to provide an exciting and interactive experience where participants solve cybersecurity-related questions to navigate towards the reward.
 
-# Overview 📋
-The Treasure Hunt Project is an engaging game where two teams compete to navigate to the reward. Each level is accessed through QR codes placed at different locations within the university. If the user answers a question correctly, they are navigated to the Clue_Page, which tells them where they can find the next question, i.e., the next QR code.
-
 # Game Structure 🚀
 
 - The project contains two pathways. Two teams will compete against each other to reach the final reward.
