@@ -5,8 +5,8 @@ Welcome to the Treasure Hunt Project! This game is designed to provide an exciti
 
 - The project contains two pathways. Two teams will compete against each other to reach the final reward.
 - Each team has a unique pathway to ensure they do not copy each other.
-- The questions are kept the same to ensure fairness.
 - If a user answers a question correctly, they are navigated to the Clue_Page, which tells them where they can find the next question, i.e., the next QR code.
+  
 -Once a team gets to the last question, they are redirected to the page that tells them where the reward is hidden exactly.
 
 # How It Works 
